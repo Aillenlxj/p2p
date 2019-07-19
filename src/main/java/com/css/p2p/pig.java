@@ -1,5 +1,5 @@
 package com.css.p2p;
 
-public class Lyq {
+public class pig {
     String Lyq="heavenLyq";
 }
